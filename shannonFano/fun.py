@@ -1,3 +1,17 @@
+#------------------------------------------------------------------------------
+# Universidad Autónoma Metropolitana: unidad Lerma
+# Programador: Diego Cantoral González
+# UEA: Teoría de la información y la codificación
+# 16 de mayo de 2023
+#------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------
+'''
+Este código contiene todas las funciones que se implementarán en el código principal.
+'''
+#------------------------------------------------------------------------------
+
+
 # La clase sirve para crear objetos que puedan almacenar tres valores muy importantes, los cuales son:
 # símbolo, su probabilidad y su respectivo código
 class simbolo:
