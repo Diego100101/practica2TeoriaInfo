@@ -1,3 +1,16 @@
+#------------------------------------------------------------------------------
+# Universidad Autónoma Metropolitana: unidad Lerma
+# Programador: Diego Cantoral González
+# UEA: Teoría de la información y la codificación
+# 16 de mayo de 2023
+#------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------
+'''
+Este código contiene todas las funciones que se implementarán en el código principal.
+'''
+#------------------------------------------------------------------------------
+
 from functools import reduce
 
 # La función replica el algoritmo visto en clase. Para una cadena de bits, toma el primer bit y, si no lo conoce, lo almacena en "diccionario", si ya lo conoce
