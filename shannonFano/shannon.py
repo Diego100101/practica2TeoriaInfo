@@ -1,3 +1,16 @@
+#------------------------------------------------------------------------------
+# Universidad Autónoma Metropolitana: unidad Lerma
+# Programador: Diego Cantoral González
+# UEA: Teoría de la información y la codificación
+# 16 de mayo de 2023
+#------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------
+'''
+Este código implementa todas las funciones del archivo "fun.py".
+'''
+#------------------------------------------------------------------------------
+
 from fun import simbolo, divide
 from collections import Counter
 
